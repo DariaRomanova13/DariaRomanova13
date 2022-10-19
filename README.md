@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DariaRomanova13
 - 👀 I’m interested in learning c++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning
 - 📫 How to reach me @Archangel_13
 
 <!---
